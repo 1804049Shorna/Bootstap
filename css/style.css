@@ -9,5 +9,9 @@ body{
     font-size: 12px;
 }
 .btn-clr{
-    background-color:  #d0d7ec;
+    background-color:  #adbade;
+    outline: none;
+    border: none;
+    font-size: 10px;
+    padding:5px;
 }
