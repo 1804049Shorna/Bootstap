@@ -1,4 +1,47 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
 .section-bg{
-    background-color: #d06b8b;
+    background-color: #f9bb18;
+
+}
+.cs{
+    /* width: 960px; */
+}
+.sec-t{
+    max-width: 500px;
+    text-align: justify;
+    font-size: 12px;
+
+}
+.p-div{
+    height: 30px;
+    width: 3px;
+   background-color: brown;
+}
+.div-st{
+    /* background-color: greenyellow; */
+    height: 300px;
+    width: 200px;
+  
+    
+    
+    
+
+}
+.ffs{
+    font-size: 13px;
+}
+.bs{
+    font-size: 14px;
+    height: 35px;
+    width: 100px;
+    text-align: center;
+    padding-bottom: 2px;
+}
+.img-div{
+    height: 150px;
+    width:140px;
 
 }
