@@ -23,7 +23,7 @@
 .div-st{
     /* background-color: greenyellow; */
     height: 300px;
-    width: 200px;
+    width: 250px;
   
     
     
@@ -41,7 +41,28 @@
     padding-bottom: 2px;
 }
 .img-div{
-    height: 150px;
-    width:140px;
+    height: 160px;
+    width:180px;
+
+}
+.img-st1{
+    height:400px ;
+     width:1000px;  
+}
+.img-st2{
+    height: 80px;
+    width: 80px;
+
+}
+.img-st{
+    height: 300px;
+    width:500px;
+
+}
+.div-hw{
+    height: 130px;
+    width: 250px;
+    padding: 5px;
+    
 
 }
